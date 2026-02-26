@@ -1,0 +1,5 @@
+{
+  "name": "Hypixel Bazaar Flip Tracker",
+  "description": "A tool to track profitable flips by crafting raw materials into enchanted items in Hypixel SkyBlock. Supports multi-language and profit calculation.",
+  "requestFramePermissions": []
+}
